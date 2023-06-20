@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Pattern - State\Pattern - State\bin\Debug\netcoreapp3.1\Pattern - State.exe
+C:\Users\Administrator\source\repos\Pattern - State\Pattern - State\bin\Debug\netcoreapp3.1\Pattern - State.deps.json
+C:\Users\Administrator\source\repos\Pattern - State\Pattern - State\bin\Debug\netcoreapp3.1\Pattern - State.runtimeconfig.json
+C:\Users\Administrator\source\repos\Pattern - State\Pattern - State\bin\Debug\netcoreapp3.1\Pattern - State.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Pattern - State\Pattern - State\bin\Debug\netcoreapp3.1\Pattern - State.dll
+C:\Users\Administrator\source\repos\Pattern - State\Pattern - State\bin\Debug\netcoreapp3.1\Pattern - State.pdb
+C:\Users\Administrator\source\repos\Pattern - State\Pattern - State\obj\Debug\netcoreapp3.1\Pattern - State.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Pattern - State\Pattern - State\obj\Debug\netcoreapp3.1\Pattern - State.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Pattern - State\Pattern - State\obj\Debug\netcoreapp3.1\Pattern - State.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Pattern - State\Pattern - State\obj\Debug\netcoreapp3.1\Pattern - State.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Pattern - State\Pattern - State\obj\Debug\netcoreapp3.1\Pattern - State.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Pattern - State\Pattern - State\obj\Debug\netcoreapp3.1\Pattern - State.dll
+C:\Users\Administrator\source\repos\Pattern - State\Pattern - State\obj\Debug\netcoreapp3.1\Pattern - State.pdb
+C:\Users\Administrator\source\repos\Pattern - State\Pattern - State\obj\Debug\netcoreapp3.1\Pattern - State.genruntimeconfig.cache
